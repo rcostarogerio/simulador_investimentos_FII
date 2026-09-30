@@ -1,3 +1,5 @@
+Em parceria com a DIO e sob orientação do Felipão apresento.
+
 # Simulador de Investimentos em Fundos Imobiliários — Excel
 
 ## Sobre o projeto
