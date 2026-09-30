@@ -1,4 +1,4 @@
-Em parceria com a DIO e sob orientação de Felipe Aguiar, o Felipão, apresento.
+Desafio de projeto proposto pela DIO, sob orientação de Felipe Aguiar, o Felipão, apresento:
 
 # Simulador de Investimentos em Fundos Imobiliários — Excel
 
